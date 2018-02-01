@@ -1,2 +1,0 @@
-# PictureLab
-Picture Lab
